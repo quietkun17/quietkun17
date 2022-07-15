@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quietkun17
 - 👀 I’m interested in pograms
-- 🌱 I’m currently learning pyton repl it
+- 🌱 I’m currently learning pyton and c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
